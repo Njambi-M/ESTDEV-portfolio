@@ -20,4 +20,11 @@ header ul li a:hover{
 	background-color: white;
 	color: black;
 }
+.name{
+    float: left;
+    color: #C8A2C8;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-size: x-large;
+}
 
