@@ -11,6 +11,10 @@ html{
     margin-left: auto;
     margin-right: auto;
 }
+.grid{
+    display: grid;
+    grid-gap: 1.5rem;
+}
 header ul{
 	float: right ;
 	list-style-type:none ;
