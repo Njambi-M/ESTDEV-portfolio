@@ -61,4 +61,7 @@ header ul li a:hover{
 	height:100vh;
 	overflow: hidden;
 }
-
+.social_icon{
+	padding-left:20px;
+	font-size: xxx-large;
+}
