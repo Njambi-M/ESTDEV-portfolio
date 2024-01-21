@@ -144,7 +144,7 @@ input, select, textarea {
 	margin-bottom: 16px;
 	resize: vertical;
   }
-  input[type=submit] {
+input[type=submit] {
 	background-color: #EEB5EB;
 	color: white;
 	padding: 12px 20px;
@@ -152,6 +152,9 @@ input, select, textarea {
 	cursor: pointer;
   }
   
-  input[type=submit]:hover {
+input[type=submit]:hover {
 	background-color: #C26DBC;
   }
+.contacts{
+	padding-top: 50px;
+}
