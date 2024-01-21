@@ -132,3 +132,7 @@ header ul li a:hover{
   display: flex;
   flex-direction: column;
 }
+.contact-details,
+.contact-form {
+    width: 48%;
+}
