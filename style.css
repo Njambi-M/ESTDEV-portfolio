@@ -21,6 +21,9 @@ h3{
 	font-family: 'Montserrat';
 	font-size: 16px;
 }
+p{
+	font-family: 'Montserrat';
+}
 .container{
     max-width: 80%;
     margin-left: auto;
