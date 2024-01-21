@@ -123,3 +123,12 @@ header ul li a:hover{
 	float: left;
 	width: 33.3%;
 }
+.contact-info {
+	display: flex;
+	margin: 3rem 0; 
+    justify-content: space-between; 
+  }
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+}
