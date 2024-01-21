@@ -212,3 +212,43 @@ input[type=submit]:hover {
 	background-color: #f0f0f0;
 	color:#C26DBC
 }
+
+@media only screen and (max-width: 768px) {
+    .header ul {
+        float: none;
+        text-align: center;
+    }
+
+    .header ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .name {
+        float: none;
+        text-align: center;
+    }
+
+    .home_img {
+        margin-right: 0;
+    }
+
+    .home_title {
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .download-button {
+        margin-left: auto;
+    }
+
+    .card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .pcard img {
+        max-width: 100%;
+		height: auto;
+	}
+}
