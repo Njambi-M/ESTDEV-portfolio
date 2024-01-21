@@ -6,6 +6,11 @@
 html{
     scroll-behavior: smooth;
 }
+h1{
+	font-family: 'Montserrat';
+	font-size: 22px;
+	text-align: center;
+}
 .container{
     max-width: 80%;
     margin-left: auto;
