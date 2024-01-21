@@ -158,3 +158,6 @@ input[type=submit]:hover {
 .contacts{
 	padding-top: 50px;
 }
+.contact{
+	margin:0 50px;
+}
