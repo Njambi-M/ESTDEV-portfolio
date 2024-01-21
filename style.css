@@ -174,7 +174,7 @@ input, select, textarea {
 	font-family: 'Montserrat';
   }
 input[type=submit] {
-	background-color: #EEB5EB;
+	background-color: #C26DBC;
 	color: white;
 	padding: 12px 20px;
 	border: none;
@@ -182,7 +182,7 @@ input[type=submit] {
   }
   
 input[type=submit]:hover {
-	background-color: #C26DBC;
+	background-color: black;
   }
 .contacts{
 	padding-top: 50px;
