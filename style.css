@@ -81,6 +81,10 @@ header ul li a:hover{
 	height:90vh;
 	overflow: hidden;
 }
+.home p{
+	font-family: 'Montserrat';
+	font-size: 20px;
+}
 .social_icon{
 	padding-left:20px;
 	font-size: xxx-large;
