@@ -161,6 +161,7 @@ header ul li a:hover{
 .contact-details,
 .contact-form {
     width: 48%;
+	font-family: 'Montserrat';
 }
 input, select, textarea {
 	width: 100%;
@@ -169,6 +170,7 @@ input, select, textarea {
 	margin-top: 6px;
 	margin-bottom: 16px;
 	resize: vertical;
+	font-family: 'Montserrat';
   }
 input[type=submit] {
 	background-color: #EEB5EB;
