@@ -100,12 +100,12 @@ header ul li a:hover{
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
+    margin-top: 10px; 
+    margin-left: auto; 
 }
-
 .download-button:hover {
     background-color: black;
 }
-
 .skills-container {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
