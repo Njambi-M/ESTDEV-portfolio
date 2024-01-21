@@ -142,6 +142,8 @@ header ul li a:hover{
     justify-content: center; 
     border-radius: 20px; 
     padding: 1rem;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
 }
 .pcol{
 	float: left;
