@@ -11,6 +11,10 @@ h1{
 	font-size: 22px;
 	text-align: center;
 }
+h3{
+	font-family: 'Montserrat';
+	font-size: 16px;
+}
 .container{
     max-width: 80%;
     margin-left: auto;
